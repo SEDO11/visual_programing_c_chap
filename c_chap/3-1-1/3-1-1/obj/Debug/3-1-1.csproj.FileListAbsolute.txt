@@ -1,0 +1,10 @@
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3-1-1\3-1-1\bin\Debug\3-1-1.exe.config
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3-1-1\3-1-1\bin\Debug\3-1-1.exe
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3-1-1\3-1-1\bin\Debug\3-1-1.pdb
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3-1-1\3-1-1\obj\Debug\3-1-1.csprojAssemblyReference.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3-1-1\3-1-1\obj\Debug\_3_1_1.Form1.resources
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3-1-1\3-1-1\obj\Debug\_3_1_1.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3-1-1\3-1-1\obj\Debug\3-1-1.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3-1-1\3-1-1\obj\Debug\3-1-1.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3-1-1\3-1-1\obj\Debug\3-1-1.exe
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3-1-1\3-1-1\obj\Debug\3-1-1.pdb

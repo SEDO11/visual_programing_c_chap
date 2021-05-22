@@ -1,0 +1,9 @@
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3week_C_F\3week_C_F\bin\Debug\3week_C_F.exe.config
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3week_C_F\3week_C_F\bin\Debug\3week_C_F.exe
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3week_C_F\3week_C_F\bin\Debug\3week_C_F.pdb
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3week_C_F\3week_C_F\obj\Debug\_3week_C_F.Form1.resources
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3week_C_F\3week_C_F\obj\Debug\_3week_C_F.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3week_C_F\3week_C_F\obj\Debug\3week_C_F.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3week_C_F\3week_C_F\obj\Debug\3week_C_F.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3week_C_F\3week_C_F\obj\Debug\3week_C_F.exe
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\3week_C_F\3week_C_F\obj\Debug\3week_C_F.pdb

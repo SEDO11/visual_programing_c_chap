@@ -1,0 +1,14 @@
+텍스트박스에 입력된 것을 라벨에다가 출력해주는 코드
+if (tb1.Text != "")
+                lbout.Text = tb1.Text;
+
+버튼 누르면 사진 바뀌는 코드
+   private void buttonback_Click(object sender, EventArgs e)
+        {
+            pbtcard.Image = Properties.Resources._16972134_playing_card_back_side_62x90_mm;
+        }
+
+        private void buttonfront_Click(object sender, EventArgs e)
+        {
+            pbtcard.Image = Properties.Resources._5fdb48a0e626d53a76e2dd81c28a8b860d71a226;
+        }

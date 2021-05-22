@@ -1,0 +1,10 @@
+C:\Users\donha\OneDrive\바탕 화면\c_chap\누적 값 계산\누적 값 계산\bin\Debug\누적 값 계산.exe.config
+C:\Users\donha\OneDrive\바탕 화면\c_chap\누적 값 계산\누적 값 계산\bin\Debug\누적 값 계산.exe
+C:\Users\donha\OneDrive\바탕 화면\c_chap\누적 값 계산\누적 값 계산\bin\Debug\누적 값 계산.pdb
+C:\Users\donha\OneDrive\바탕 화면\c_chap\누적 값 계산\누적 값 계산\obj\Debug\누적 값 계산.csprojAssemblyReference.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\누적 값 계산\누적 값 계산\obj\Debug\누적_값_계산.Form1.resources
+C:\Users\donha\OneDrive\바탕 화면\c_chap\누적 값 계산\누적 값 계산\obj\Debug\누적_값_계산.Properties.Resources.resources
+C:\Users\donha\OneDrive\바탕 화면\c_chap\누적 값 계산\누적 값 계산\obj\Debug\누적 값 계산.csproj.GenerateResource.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\누적 값 계산\누적 값 계산\obj\Debug\누적 값 계산.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\누적 값 계산\누적 값 계산\obj\Debug\누적 값 계산.exe
+C:\Users\donha\OneDrive\바탕 화면\c_chap\누적 값 계산\누적 값 계산\obj\Debug\누적 값 계산.pdb

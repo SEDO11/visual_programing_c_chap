@@ -1,0 +1,9 @@
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\조건문\조건문\obj\Debug\조건문.Form1.resources
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\조건문\조건문\obj\Debug\조건문.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\조건문\조건문\obj\Debug\조건문.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\조건문\조건문\obj\Debug\조건문.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\조건문\조건문\bin\Debug\조건문.exe.config
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\조건문\조건문\bin\Debug\조건문.exe
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\조건문\조건문\bin\Debug\조건문.pdb
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\조건문\조건문\obj\Debug\조건문.exe
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\조건문\조건문\obj\Debug\조건문.pdb

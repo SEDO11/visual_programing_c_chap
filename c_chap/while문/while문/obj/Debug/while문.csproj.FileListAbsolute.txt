@@ -1,0 +1,10 @@
+C:\Users\donha\OneDrive\바탕 화면\c_chap\while문\while문\bin\Debug\while문.exe.config
+C:\Users\donha\OneDrive\바탕 화면\c_chap\while문\while문\bin\Debug\while문.exe
+C:\Users\donha\OneDrive\바탕 화면\c_chap\while문\while문\bin\Debug\while문.pdb
+C:\Users\donha\OneDrive\바탕 화면\c_chap\while문\while문\obj\Debug\while문.csprojAssemblyReference.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\while문\while문\obj\Debug\while문.Form1.resources
+C:\Users\donha\OneDrive\바탕 화면\c_chap\while문\while문\obj\Debug\while문.Properties.Resources.resources
+C:\Users\donha\OneDrive\바탕 화면\c_chap\while문\while문\obj\Debug\while문.csproj.GenerateResource.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\while문\while문\obj\Debug\while문.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\while문\while문\obj\Debug\while문.exe
+C:\Users\donha\OneDrive\바탕 화면\c_chap\while문\while문\obj\Debug\while문.pdb

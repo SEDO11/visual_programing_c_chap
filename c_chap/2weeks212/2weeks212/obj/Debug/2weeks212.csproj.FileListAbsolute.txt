@@ -1,0 +1,10 @@
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\2weeks212\2weeks212\bin\Debug\2weeks212.exe.config
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\2weeks212\2weeks212\bin\Debug\2weeks212.exe
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\2weeks212\2weeks212\bin\Debug\2weeks212.pdb
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\2weeks212\2weeks212\obj\Debug\2weeks212.csprojAssemblyReference.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\2weeks212\2weeks212\obj\Debug\_2weeks212.Form1.resources
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\2weeks212\2weeks212\obj\Debug\_2weeks212.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\2weeks212\2weeks212\obj\Debug\2weeks212.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\2weeks212\2weeks212\obj\Debug\2weeks212.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\2weeks212\2weeks212\obj\Debug\2weeks212.exe
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\2weeks212\2weeks212\obj\Debug\2weeks212.pdb

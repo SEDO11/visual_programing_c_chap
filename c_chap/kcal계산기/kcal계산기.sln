@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kcal계산기", "kcal계산기\kcal계산기.csproj", "{BF20E5C6-159C-4772-9284-45E74A7A8507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF20E5C6-159C-4772-9284-45E74A7A8507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF20E5C6-159C-4772-9284-45E74A7A8507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF20E5C6-159C-4772-9284-45E74A7A8507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF20E5C6-159C-4772-9284-45E74A7A8507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8497CBFB-47E2-4640-90A1-1859799F0C89}
+	EndGlobalSection
+EndGlobal

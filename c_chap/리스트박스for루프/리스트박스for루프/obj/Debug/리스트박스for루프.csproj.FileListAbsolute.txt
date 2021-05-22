@@ -1,0 +1,10 @@
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\리스트박스for루프\리스트박스for루프\bin\Debug\리스트박스for루프.exe.config
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\리스트박스for루프\리스트박스for루프\bin\Debug\리스트박스for루프.exe
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\리스트박스for루프\리스트박스for루프\bin\Debug\리스트박스for루프.pdb
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\리스트박스for루프\리스트박스for루프\obj\Debug\리스트박스for루프.csprojAssemblyReference.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\리스트박스for루프\리스트박스for루프\obj\Debug\리스트박스for루프.Form1.resources
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\리스트박스for루프\리스트박스for루프\obj\Debug\리스트박스for루프.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\리스트박스for루프\리스트박스for루프\obj\Debug\리스트박스for루프.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\리스트박스for루프\리스트박스for루프\obj\Debug\리스트박스for루프.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\리스트박스for루프\리스트박스for루프\obj\Debug\리스트박스for루프.exe
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\리스트박스for루프\리스트박스for루프\obj\Debug\리스트박스for루프.pdb

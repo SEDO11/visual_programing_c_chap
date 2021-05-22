@@ -1,0 +1,10 @@
+C:\Users\OHSEHOON\source\repos\VP1\VP1\bin\Debug\VP1.exe.config
+C:\Users\OHSEHOON\source\repos\VP1\VP1\bin\Debug\VP1.exe
+C:\Users\OHSEHOON\source\repos\VP1\VP1\bin\Debug\VP1.pdb
+C:\Users\OHSEHOON\source\repos\VP1\VP1\obj\Debug\VP1.csprojAssemblyReference.cache
+C:\Users\OHSEHOON\source\repos\VP1\VP1\obj\Debug\VP1.Form1.resources
+C:\Users\OHSEHOON\source\repos\VP1\VP1\obj\Debug\VP1.Properties.Resources.resources
+C:\Users\OHSEHOON\source\repos\VP1\VP1\obj\Debug\VP1.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\source\repos\VP1\VP1\obj\Debug\VP1.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\source\repos\VP1\VP1\obj\Debug\VP1.exe
+C:\Users\OHSEHOON\source\repos\VP1\VP1\obj\Debug\VP1.pdb

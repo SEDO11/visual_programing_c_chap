@@ -1,0 +1,10 @@
+C:\Users\donha\OneDrive\바탕 화면\c_chap\리스트박스2\리스트박스2\obj\Debug\리스트박스2.csprojAssemblyReference.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\리스트박스2\리스트박스2\obj\Debug\리스트박스2.Form1.resources
+C:\Users\donha\OneDrive\바탕 화면\c_chap\리스트박스2\리스트박스2\obj\Debug\리스트박스2.Properties.Resources.resources
+C:\Users\donha\OneDrive\바탕 화면\c_chap\리스트박스2\리스트박스2\obj\Debug\리스트박스2.csproj.GenerateResource.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\리스트박스2\리스트박스2\obj\Debug\리스트박스2.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\리스트박스2\리스트박스2\bin\Debug\리스트박스2.exe.config
+C:\Users\donha\OneDrive\바탕 화면\c_chap\리스트박스2\리스트박스2\bin\Debug\리스트박스2.exe
+C:\Users\donha\OneDrive\바탕 화면\c_chap\리스트박스2\리스트박스2\bin\Debug\리스트박스2.pdb
+C:\Users\donha\OneDrive\바탕 화면\c_chap\리스트박스2\리스트박스2\obj\Debug\리스트박스2.exe
+C:\Users\donha\OneDrive\바탕 화면\c_chap\리스트박스2\리스트박스2\obj\Debug\리스트박스2.pdb

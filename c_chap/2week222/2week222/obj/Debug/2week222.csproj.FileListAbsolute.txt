@@ -1,0 +1,9 @@
+C:\Users\OHSEHOON\source\repos\2week222\2week222\bin\Debug\2week222.exe.config
+C:\Users\OHSEHOON\source\repos\2week222\2week222\bin\Debug\2week222.exe
+C:\Users\OHSEHOON\source\repos\2week222\2week222\bin\Debug\2week222.pdb
+C:\Users\OHSEHOON\source\repos\2week222\2week222\obj\Debug\_2week222.Form1.resources
+C:\Users\OHSEHOON\source\repos\2week222\2week222\obj\Debug\_2week222.Properties.Resources.resources
+C:\Users\OHSEHOON\source\repos\2week222\2week222\obj\Debug\2week222.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\source\repos\2week222\2week222\obj\Debug\2week222.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\source\repos\2week222\2week222\obj\Debug\2week222.exe
+C:\Users\OHSEHOON\source\repos\2week222\2week222\obj\Debug\2week222.pdb

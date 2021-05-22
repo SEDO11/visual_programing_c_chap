@@ -1,0 +1,10 @@
+C:\Users\OHSEHOON\source\repos\kcal계산기\kcal계산기\bin\Debug\kcal계산기.exe.config
+C:\Users\OHSEHOON\source\repos\kcal계산기\kcal계산기\bin\Debug\kcal계산기.exe
+C:\Users\OHSEHOON\source\repos\kcal계산기\kcal계산기\bin\Debug\kcal계산기.pdb
+C:\Users\OHSEHOON\source\repos\kcal계산기\kcal계산기\obj\Debug\kcal계산기.csprojAssemblyReference.cache
+C:\Users\OHSEHOON\source\repos\kcal계산기\kcal계산기\obj\Debug\kcal계산기.Form1.resources
+C:\Users\OHSEHOON\source\repos\kcal계산기\kcal계산기\obj\Debug\kcal계산기.Properties.Resources.resources
+C:\Users\OHSEHOON\source\repos\kcal계산기\kcal계산기\obj\Debug\kcal계산기.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\source\repos\kcal계산기\kcal계산기\obj\Debug\kcal계산기.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\source\repos\kcal계산기\kcal계산기\obj\Debug\kcal계산기.exe
+C:\Users\OHSEHOON\source\repos\kcal계산기\kcal계산기\obj\Debug\kcal계산기.pdb
