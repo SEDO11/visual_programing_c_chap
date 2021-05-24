@@ -1,0 +1,10 @@
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_1리스트_컬렉션\10_1리스트_컬렉션\bin\Debug\10_1리스트_컬렉션.exe.config
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_1리스트_컬렉션\10_1리스트_컬렉션\bin\Debug\10_1리스트_컬렉션.exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_1리스트_컬렉션\10_1리스트_컬렉션\bin\Debug\10_1리스트_컬렉션.pdb
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_1리스트_컬렉션\10_1리스트_컬렉션\obj\Debug\10_1리스트_컬렉션.csprojAssemblyReference.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_1리스트_컬렉션\10_1리스트_컬렉션\obj\Debug\_10_1리스트_컬렉션.Form1.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_1리스트_컬렉션\10_1리스트_컬렉션\obj\Debug\_10_1리스트_컬렉션.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_1리스트_컬렉션\10_1리스트_컬렉션\obj\Debug\10_1리스트_컬렉션.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_1리스트_컬렉션\10_1리스트_컬렉션\obj\Debug\10_1리스트_컬렉션.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_1리스트_컬렉션\10_1리스트_컬렉션\obj\Debug\10_1리스트_컬렉션.exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_1리스트_컬렉션\10_1리스트_컬렉션\obj\Debug\10_1리스트_컬렉션.pdb

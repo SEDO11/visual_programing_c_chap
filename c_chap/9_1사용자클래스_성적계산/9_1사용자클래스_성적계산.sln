@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_1사용자클래스_성적계산", "9_1사용자클래스_성적계산\9_1사용자클래스_성적계산.csproj", "{70C7C5F3-49C0-49AE-80D3-784E9B31132A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C7C5F3-49C0-49AE-80D3-784E9B31132A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C7C5F3-49C0-49AE-80D3-784E9B31132A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C7C5F3-49C0-49AE-80D3-784E9B31132A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C7C5F3-49C0-49AE-80D3-784E9B31132A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29EB4155-65D9-4125-9210-30F048C0EB7A}
+	EndGlobalSection
+EndGlobal

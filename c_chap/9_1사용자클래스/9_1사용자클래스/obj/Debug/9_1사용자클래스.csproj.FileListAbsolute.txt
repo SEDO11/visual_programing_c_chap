@@ -1,0 +1,10 @@
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스\9_1사용자클래스\bin\Debug\9_1사용자클래스.exe.config
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스\9_1사용자클래스\bin\Debug\9_1사용자클래스.exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스\9_1사용자클래스\bin\Debug\9_1사용자클래스.pdb
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스\9_1사용자클래스\obj\Debug\9_1사용자클래스.csprojAssemblyReference.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스\9_1사용자클래스\obj\Debug\_9_1사용자클래스.Form1.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스\9_1사용자클래스\obj\Debug\_9_1사용자클래스.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스\9_1사용자클래스\obj\Debug\9_1사용자클래스.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스\9_1사용자클래스\obj\Debug\9_1사용자클래스.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스\9_1사용자클래스\obj\Debug\9_1사용자클래스.exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스\9_1사용자클래스\obj\Debug\9_1사용자클래스.pdb
