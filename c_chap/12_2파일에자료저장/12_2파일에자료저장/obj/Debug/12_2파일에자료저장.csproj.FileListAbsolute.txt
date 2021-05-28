@@ -1,0 +1,10 @@
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_2파일에자료저장\12_2파일에자료저장\bin\Debug\12_2파일에자료저장.exe.config
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_2파일에자료저장\12_2파일에자료저장\bin\Debug\12_2파일에자료저장.exe
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_2파일에자료저장\12_2파일에자료저장\bin\Debug\12_2파일에자료저장.pdb
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_2파일에자료저장\12_2파일에자료저장\obj\Debug\12_2파일에자료저장.csprojAssemblyReference.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_2파일에자료저장\12_2파일에자료저장\obj\Debug\_12_2파일에자료저장.Form1.resources
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_2파일에자료저장\12_2파일에자료저장\obj\Debug\_12_2파일에자료저장.Properties.Resources.resources
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_2파일에자료저장\12_2파일에자료저장\obj\Debug\12_2파일에자료저장.csproj.GenerateResource.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_2파일에자료저장\12_2파일에자료저장\obj\Debug\12_2파일에자료저장.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_2파일에자료저장\12_2파일에자료저장\obj\Debug\12_2파일에자료저장.exe
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_2파일에자료저장\12_2파일에자료저장\obj\Debug\12_2파일에자료저장.pdb
