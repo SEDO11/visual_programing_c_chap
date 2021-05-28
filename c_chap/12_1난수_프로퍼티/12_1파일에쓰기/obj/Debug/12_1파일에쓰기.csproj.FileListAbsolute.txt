@@ -1,0 +1,9 @@
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1파일에쓰기\12_1파일에쓰기\bin\Debug\12_1파일에쓰기.exe.config
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1파일에쓰기\12_1파일에쓰기\bin\Debug\12_1파일에쓰기.exe
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1파일에쓰기\12_1파일에쓰기\bin\Debug\12_1파일에쓰기.pdb
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1파일에쓰기\12_1파일에쓰기\obj\Debug\_12_1파일에쓰기.Form1.resources
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1파일에쓰기\12_1파일에쓰기\obj\Debug\_12_1파일에쓰기.Properties.Resources.resources
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1파일에쓰기\12_1파일에쓰기\obj\Debug\12_1파일에쓰기.csproj.GenerateResource.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1파일에쓰기\12_1파일에쓰기\obj\Debug\12_1파일에쓰기.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1파일에쓰기\12_1파일에쓰기\obj\Debug\12_1파일에쓰기.exe
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1파일에쓰기\12_1파일에쓰기\obj\Debug\12_1파일에쓰기.pdb

@@ -1,0 +1,10 @@
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1메뉴\12_1메뉴\bin\Debug\12_1메뉴.exe.config
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1메뉴\12_1메뉴\bin\Debug\12_1메뉴.exe
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1메뉴\12_1메뉴\bin\Debug\12_1메뉴.pdb
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1메뉴\12_1메뉴\obj\Debug\12_1메뉴.csprojAssemblyReference.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1메뉴\12_1메뉴\obj\Debug\_12_1메뉴.Form1.resources
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1메뉴\12_1메뉴\obj\Debug\_12_1메뉴.Properties.Resources.resources
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1메뉴\12_1메뉴\obj\Debug\12_1메뉴.csproj.GenerateResource.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1메뉴\12_1메뉴\obj\Debug\12_1메뉴.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1메뉴\12_1메뉴\obj\Debug\12_1메뉴.exe
+C:\Users\donha\OneDrive\바탕 화면\c_chap\12_1메뉴\12_1메뉴\obj\Debug\12_1메뉴.pdb
