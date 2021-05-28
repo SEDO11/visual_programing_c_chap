@@ -1,0 +1,10 @@
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_2멀티윈도우\11_2멀티윈도우\bin\Debug\11_2멀티윈도우.exe.config
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_2멀티윈도우\11_2멀티윈도우\bin\Debug\11_2멀티윈도우.exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_2멀티윈도우\11_2멀티윈도우\bin\Debug\11_2멀티윈도우.pdb
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_2멀티윈도우\11_2멀티윈도우\obj\Debug\11_2멀티윈도우.csprojAssemblyReference.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_2멀티윈도우\11_2멀티윈도우\obj\Debug\_11_2멀티윈도우.Form1.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_2멀티윈도우\11_2멀티윈도우\obj\Debug\_11_2멀티윈도우.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_2멀티윈도우\11_2멀티윈도우\obj\Debug\11_2멀티윈도우.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_2멀티윈도우\11_2멀티윈도우\obj\Debug\11_2멀티윈도우.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_2멀티윈도우\11_2멀티윈도우\obj\Debug\11_2멀티윈도우.exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_2멀티윈도우\11_2멀티윈도우\obj\Debug\11_2멀티윈도우.pdb

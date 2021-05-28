@@ -1,0 +1,20 @@
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\611\611\bin\Debug\611.exe.config
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\611\611\bin\Debug\611.exe
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\611\611\bin\Debug\611.pdb
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\611\611\obj\Debug\_611.Form1.resources
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\611\611\obj\Debug\_611.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\611\611\obj\Debug\611.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\611\611\obj\Debug\611.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\611\611\obj\Debug\611.exe
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\611\611\obj\Debug\611.pdb
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\611\611\obj\Debug\611.csprojAssemblyReference.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP3\611\bin\Debug\611.exe.config
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP3\611\bin\Debug\611.exe
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP3\611\bin\Debug\611.pdb
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP3\611\obj\Debug\611.csprojAssemblyReference.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP3\611\obj\Debug\_611.Form1.resources
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP3\611\obj\Debug\_611.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP3\611\obj\Debug\611.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP3\611\obj\Debug\611.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP3\611\obj\Debug\611.exe
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP3\611\obj\Debug\611.pdb
