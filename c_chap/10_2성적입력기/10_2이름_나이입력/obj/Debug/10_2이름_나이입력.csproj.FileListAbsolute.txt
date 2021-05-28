@@ -1,0 +1,10 @@
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_2성적입력기\10_2이름_나이입력\obj\Debug\10_2이름_나이입력.csprojAssemblyReference.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_2성적입력기\10_2이름_나이입력\obj\Debug\_10_2이름_나이입력.Form1.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_2성적입력기\10_2이름_나이입력\obj\Debug\_10_2이름_나이입력.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_2성적입력기\10_2이름_나이입력\obj\Debug\10_2이름_나이입력.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_2성적입력기\10_2이름_나이입력\obj\Debug\10_2이름_나이입력.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_2성적입력기\10_2이름_나이입력\bin\Debug\10_2이름_나이입력.exe.config
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_2성적입력기\10_2이름_나이입력\bin\Debug\10_2이름_나이입력.exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_2성적입력기\10_2이름_나이입력\bin\Debug\10_2이름_나이입력.pdb
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_2성적입력기\10_2이름_나이입력\obj\Debug\10_2이름_나이입력.exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\10_2성적입력기\10_2이름_나이입력\obj\Debug\10_2이름_나이입력.pdb

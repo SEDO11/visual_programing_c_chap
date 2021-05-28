@@ -1,0 +1,10 @@
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_1프로퍼티\fruitsBox\bin\Debug\fruitsBox.exe.config
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_1프로퍼티\fruitsBox\bin\Debug\fruitsBox.exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_1프로퍼티\fruitsBox\bin\Debug\fruitsBox.pdb
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_1프로퍼티\fruitsBox\obj\Debug\fruitsBox.csprojAssemblyReference.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_1프로퍼티\fruitsBox\obj\Debug\fruitsBox.Form1.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_1프로퍼티\fruitsBox\obj\Debug\fruitsBox.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_1프로퍼티\fruitsBox\obj\Debug\fruitsBox.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_1프로퍼티\fruitsBox\obj\Debug\fruitsBox.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_1프로퍼티\fruitsBox\obj\Debug\fruitsBox.exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\11_1프로퍼티\fruitsBox\obj\Debug\fruitsBox.pdb

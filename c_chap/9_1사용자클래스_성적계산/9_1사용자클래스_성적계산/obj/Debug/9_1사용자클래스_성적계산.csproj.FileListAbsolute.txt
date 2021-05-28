@@ -1,0 +1,10 @@
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스_성적계산\9_1사용자클래스_성적계산\bin\Debug\9_1사용자클래스_성적계산.exe.config
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스_성적계산\9_1사용자클래스_성적계산\bin\Debug\9_1사용자클래스_성적계산.exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스_성적계산\9_1사용자클래스_성적계산\bin\Debug\9_1사용자클래스_성적계산.pdb
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스_성적계산\9_1사용자클래스_성적계산\obj\Debug\9_1사용자클래스_성적계산.csprojAssemblyReference.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스_성적계산\9_1사용자클래스_성적계산\obj\Debug\_9_1사용자클래스_성적계산.Form1.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스_성적계산\9_1사용자클래스_성적계산\obj\Debug\_9_1사용자클래스_성적계산.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스_성적계산\9_1사용자클래스_성적계산\obj\Debug\9_1사용자클래스_성적계산.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스_성적계산\9_1사용자클래스_성적계산\obj\Debug\9_1사용자클래스_성적계산.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스_성적계산\9_1사용자클래스_성적계산\obj\Debug\9_1사용자클래스_성적계산.exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_1사용자클래스_성적계산\9_1사용자클래스_성적계산\obj\Debug\9_1사용자클래스_성적계산.pdb

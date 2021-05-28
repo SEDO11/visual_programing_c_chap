@@ -1,9 +1,0 @@
-C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\배열\배열\bin\Debug\배열.exe.config
-C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\배열\배열\bin\Debug\배열.exe
-C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\배열\배열\bin\Debug\배열.pdb
-C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\배열\배열\obj\Debug\배열.Form1.resources
-C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\배열\배열\obj\Debug\배열.Properties.Resources.resources
-C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\배열\배열\obj\Debug\배열.csproj.GenerateResource.cache
-C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\배열\배열\obj\Debug\배열.csproj.CoreCompileInputs.cache
-C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\배열\배열\obj\Debug\배열.exe
-C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\배열\배열\obj\Debug\배열.pdb

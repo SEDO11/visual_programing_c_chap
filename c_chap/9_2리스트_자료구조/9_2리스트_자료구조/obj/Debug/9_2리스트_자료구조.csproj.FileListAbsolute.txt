@@ -1,0 +1,9 @@
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_2리스트_자료구조\9_2리스트_자료구조\bin\Debug\9_2리스트_자료구조.exe.config
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_2리스트_자료구조\9_2리스트_자료구조\bin\Debug\9_2리스트_자료구조.exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_2리스트_자료구조\9_2리스트_자료구조\bin\Debug\9_2리스트_자료구조.pdb
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_2리스트_자료구조\9_2리스트_자료구조\obj\Debug\_9_2리스트_자료구조.Form1.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_2리스트_자료구조\9_2리스트_자료구조\obj\Debug\_9_2리스트_자료구조.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_2리스트_자료구조\9_2리스트_자료구조\obj\Debug\9_2리스트_자료구조.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_2리스트_자료구조\9_2리스트_자료구조\obj\Debug\9_2리스트_자료구조.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_2리스트_자료구조\9_2리스트_자료구조\obj\Debug\9_2리스트_자료구조.exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_2리스트_자료구조\9_2리스트_자료구조\obj\Debug\9_2리스트_자료구조.pdb
