@@ -7,3 +7,4 @@ C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_2리스트_자�
 C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_2리스트_자료구조\9_2리스트_자료구조\obj\Debug\9_2리스트_자료구조.csproj.CoreCompileInputs.cache
 C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_2리스트_자료구조\9_2리스트_자료구조\obj\Debug\9_2리스트_자료구조.exe
 C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_2리스트_자료구조\9_2리스트_자료구조\obj\Debug\9_2리스트_자료구조.pdb
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\9_2리스트_자료구조\9_2리스트_자료구조\obj\Debug\9_2리스트_자료구조.csprojAssemblyReference.cache

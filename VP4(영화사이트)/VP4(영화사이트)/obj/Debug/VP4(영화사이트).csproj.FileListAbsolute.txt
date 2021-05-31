@@ -1,0 +1,17 @@
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\VP4(영화사이트)\VP4(영화사이트)\bin\Debug\VP4(영화사이트).exe.config
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\VP4(영화사이트)\VP4(영화사이트)\bin\Debug\VP4(영화사이트).exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\VP4(영화사이트)\VP4(영화사이트)\bin\Debug\VP4(영화사이트).pdb
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\VP4(영화사이트)\VP4(영화사이트)\obj\Debug\VP4(영화사이트).csprojAssemblyReference.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\VP4(영화사이트)\VP4(영화사이트)\obj\Debug\VP4_영화사이트_.Form1.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\VP4(영화사이트)\VP4(영화사이트)\obj\Debug\VP4_영화사이트_.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\VP4(영화사이트)\VP4(영화사이트)\obj\Debug\VP4(영화사이트).csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\VP4(영화사이트)\VP4(영화사이트)\obj\Debug\VP4(영화사이트).csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\VP4(영화사이트)\VP4(영화사이트)\obj\Debug\VP4(영화사이트).exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\VP4(영화사이트)\VP4(영화사이트)\obj\Debug\VP4(영화사이트).pdb
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\VP4(영화사이트)\VP4(영화사이트)\obj\Debug\VP4_영화사이트_.영화소개.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\VP4(영화사이트)\VP4(영화사이트)\obj\Debug\VP4(영화사이트).csprojAssemblyReference.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\VP4(영화사이트)\VP4(영화사이트)\obj\Debug\VP4_영화사이트_.Form1.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\VP4(영화사이트)\VP4(영화사이트)\obj\Debug\VP4_영화사이트_.영화소개.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\VP4(영화사이트)\VP4(영화사이트)\obj\Debug\VP4(영화사이트).csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\VP4(영화사이트)\VP4(영화사이트)\obj\Debug\VP4(영화사이트).exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\VP4(영화사이트)\VP4(영화사이트)\obj\Debug\VP4(영화사이트).pdb
