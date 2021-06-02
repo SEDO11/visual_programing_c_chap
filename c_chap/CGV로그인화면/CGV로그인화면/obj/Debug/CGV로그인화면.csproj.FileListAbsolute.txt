@@ -1,0 +1,11 @@
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\CGV로그인화면\CGV로그인화면\bin\Debug\CGV로그인화면.exe.config
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\CGV로그인화면\CGV로그인화면\bin\Debug\CGV로그인화면.exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\CGV로그인화면\CGV로그인화면\bin\Debug\CGV로그인화면.pdb
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\CGV로그인화면\CGV로그인화면\obj\Debug\CGV로그인화면.csprojAssemblyReference.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\CGV로그인화면\CGV로그인화면\obj\Debug\CGV로그인화면.Form1.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\CGV로그인화면\CGV로그인화면\obj\Debug\CGV로그인화면.NewUser.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\CGV로그인화면\CGV로그인화면\obj\Debug\CGV로그인화면.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\CGV로그인화면\CGV로그인화면\obj\Debug\CGV로그인화면.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\CGV로그인화면\CGV로그인화면\obj\Debug\CGV로그인화면.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\CGV로그인화면\CGV로그인화면\obj\Debug\CGV로그인화면.exe
+C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\CGV로그인화면\CGV로그인화면\obj\Debug\CGV로그인화면.pdb
