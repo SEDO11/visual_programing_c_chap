@@ -9,20 +9,19 @@ namespace CGV로그인화면
 
     class UserID
     {
-        public static UserID userid;
 
-        public static void main()
-        {
-            List<string> Name = new List<string>();
-            List<string> Id = new List<string>();
-            List<string> Pw = new List<string>();
-            int i = 0;
-        }
+        List<string> Name = new List<string>();
+        List<string> Id = new List<string>();
+        List<string> Pw = new List<string>();
 
         public void IDInsert() 
         {
+            string newname = NewUser.newuser.tbNewName.Text;
             string newid = NewUser.newuser.tbNewId.Text;
-            i++;
+            string newpw = NewUser.newuser.tbNewPw.Text;
+            Name.Add(newname);
+            Id.Add(newid);
+            Pw.Add(newpw);
            
         }
        
