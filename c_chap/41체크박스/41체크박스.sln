@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41체크박스", "41체크박스\41체크박스.csproj", "{09A1E8E4-AABF-43F9-8649-62321E0D3E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09A1E8E4-AABF-43F9-8649-62321E0D3E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A1E8E4-AABF-43F9-8649-62321E0D3E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A1E8E4-AABF-43F9-8649-62321E0D3E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A1E8E4-AABF-43F9-8649-62321E0D3E56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CA12AE0-DCDC-4832-BC87-4571E9EB9452}
+	EndGlobalSection
+EndGlobal
