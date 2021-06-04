@@ -1,0 +1,10 @@
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP2\VP2\bin\Debug\VP2.exe.config
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP2\VP2\bin\Debug\VP2.exe
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP2\VP2\bin\Debug\VP2.pdb
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP2\VP2\obj\Debug\VP2.csprojAssemblyReference.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP2\VP2\obj\Debug\VP2.Form1.resources
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP2\VP2\obj\Debug\VP2.Properties.Resources.resources
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP2\VP2\obj\Debug\VP2.csproj.GenerateResource.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP2\VP2\obj\Debug\VP2.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP2\VP2\obj\Debug\VP2.exe
+C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\비주얼 프로그래밍 과제\VP2\VP2\obj\Debug\VP2.pdb

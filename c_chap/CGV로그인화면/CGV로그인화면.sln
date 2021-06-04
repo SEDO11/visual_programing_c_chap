@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGV로그인화면", "CGV로그인화면\CGV로그인화면.csproj", "{4CB504D7-36E5-4FEE-8521-ACBD32F88063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB504D7-36E5-4FEE-8521-ACBD32F88063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB504D7-36E5-4FEE-8521-ACBD32F88063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB504D7-36E5-4FEE-8521-ACBD32F88063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB504D7-36E5-4FEE-8521-ACBD32F88063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11FD1964-80F7-455A-A2FE-7F9088E398EC}
+	EndGlobalSection
+EndGlobal
