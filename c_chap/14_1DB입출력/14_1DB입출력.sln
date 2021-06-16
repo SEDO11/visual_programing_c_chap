@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_1DB입출력", "14_1DB입출력\14_1DB입출력.csproj", "{6E93B80C-5951-4D15-B9D9-9C0EAA7C3E63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E93B80C-5951-4D15-B9D9-9C0EAA7C3E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E93B80C-5951-4D15-B9D9-9C0EAA7C3E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E93B80C-5951-4D15-B9D9-9C0EAA7C3E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E93B80C-5951-4D15-B9D9-9C0EAA7C3E63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CAD7CFF-2C52-46F6-8DA5-9378D76744D7}
+	EndGlobalSection
+EndGlobal

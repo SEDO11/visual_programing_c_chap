@@ -31,5 +31,25 @@ namespace _13_1데이터연동
             this.dBScoreTableAdapter.Fill(this.dB_성적DataSet.DBScore);
 
         }
+
+        private void dBScoreDataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void bindingNavigatorMoveNextItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dBScoreBindingNavigator_RefreshItems(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bindingNavigatorAddNewItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

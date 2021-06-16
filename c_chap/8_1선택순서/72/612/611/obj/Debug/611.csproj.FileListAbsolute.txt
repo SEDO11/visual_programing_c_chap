@@ -18,3 +18,13 @@ C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\72\72\612\611\obj\Debug\611.csproj.Generate
 C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\72\72\612\611\obj\Debug\611.csproj.CoreCompileInputs.cache
 C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\72\72\612\611\obj\Debug\611.exe
 C:\Users\OHSEHOON\Desktop\ㅇ\c_chap\72\72\612\611\obj\Debug\611.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\8_1선택순서\72\612\611\bin\Debug\611.exe.config
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\8_1선택순서\72\612\611\bin\Debug\611.exe
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\8_1선택순서\72\612\611\bin\Debug\611.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\8_1선택순서\72\612\611\obj\Debug\611.csprojAssemblyReference.cache
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\8_1선택순서\72\612\611\obj\Debug\_611.Form1.resources
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\8_1선택순서\72\612\611\obj\Debug\_611.Properties.Resources.resources
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\8_1선택순서\72\612\611\obj\Debug\611.csproj.GenerateResource.cache
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\8_1선택순서\72\612\611\obj\Debug\611.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\8_1선택순서\72\612\611\obj\Debug\611.exe
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\8_1선택순서\72\612\611\obj\Debug\611.pdb

@@ -1,0 +1,5 @@
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\14_1DB입출력\14_1DB입출력\obj\Debug\14_1DB입출력.csprojAssemblyReference.cache
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\14_1DB입출력\14_1DB입출력\obj\Debug\_14_1DB입출력.Form1.resources
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\14_1DB입출력\14_1DB입출력\obj\Debug\_14_1DB입출력.Properties.Resources.resources
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\14_1DB입출력\14_1DB입출력\obj\Debug\14_1DB입출력.csproj.GenerateResource.cache
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\14_1DB입출력\14_1DB입출력\obj\Debug\14_1DB입출력.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_2DB\13_2DB\bin\Debug\성적.mdf
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_2DB\13_2DB\bin\Debug\성적_log.ldf
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_2DB\13_2DB\bin\Debug\13_2DB.exe.config
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_2DB\13_2DB\bin\Debug\13_2DB.exe
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_2DB\13_2DB\bin\Debug\13_2DB.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_2DB\13_2DB\obj\Debug\13_2DB.csprojAssemblyReference.cache
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_2DB\13_2DB\obj\Debug\_13_2DB.Form1.resources
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_2DB\13_2DB\obj\Debug\_13_2DB.Properties.Resources.resources
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_2DB\13_2DB\obj\Debug\13_2DB.csproj.GenerateResource.cache
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_2DB\13_2DB\obj\Debug\13_2DB.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_2DB\13_2DB\obj\Debug\13_2DB.exe
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_2DB\13_2DB\obj\Debug\13_2DB.pdb

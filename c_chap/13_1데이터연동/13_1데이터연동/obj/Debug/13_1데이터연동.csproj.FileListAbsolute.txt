@@ -10,3 +10,15 @@ C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\13_1데이터연�
 C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\13_1데이터연동\13_1데이터연동\obj\Debug\13_1데이터연동.csproj.CoreCompileInputs.cache
 C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\13_1데이터연동\13_1데이터연동\obj\Debug\13_1데이터연동.exe
 C:\Users\OHSEHOON\Desktop\git\visual_programing_c_chap\c_chap\13_1데이터연동\13_1데이터연동\obj\Debug\13_1데이터연동.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_1데이터연동\13_1데이터연동\bin\Debug\DB_성적.mdf
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_1데이터연동\13_1데이터연동\bin\Debug\DB_성적_log.ldf
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_1데이터연동\13_1데이터연동\bin\Debug\13_1데이터연동.exe.config
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_1데이터연동\13_1데이터연동\bin\Debug\13_1데이터연동.exe
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_1데이터연동\13_1데이터연동\bin\Debug\13_1데이터연동.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_1데이터연동\13_1데이터연동\obj\Debug\13_1데이터연동.csprojAssemblyReference.cache
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_1데이터연동\13_1데이터연동\obj\Debug\_13_1데이터연동.Form1.resources
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_1데이터연동\13_1데이터연동\obj\Debug\_13_1데이터연동.Properties.Resources.resources
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_1데이터연동\13_1데이터연동\obj\Debug\13_1데이터연동.csproj.GenerateResource.cache
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_1데이터연동\13_1데이터연동\obj\Debug\13_1데이터연동.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_1데이터연동\13_1데이터연동\obj\Debug\13_1데이터연동.exe
+C:\Users\donha\OneDrive\바탕 화면\git\visual_programing_c_chap\c_chap\13_1데이터연동\13_1데이터연동\obj\Debug\13_1데이터연동.pdb
